@@ -1,0 +1,11 @@
+{
+    "name": "adamblek/htdocs",
+    "type": "project",
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\" : "./"
+
+         }
+    }
+}
